@@ -38,6 +38,7 @@ Calibration 이미지 생성 시간을 단축하고 장비 보정 정확도를 �
 - Super-Resolution 모델 후보 조사 및 선정
 - 관련 논문 분석
 - SR 모델 구조 구현
+<img src="images/srcnn.png" width="600"/>
 
 ### 모델 학습 및 튜닝
 - 학습 / 검증 / 테스트 데이터셋 분할
